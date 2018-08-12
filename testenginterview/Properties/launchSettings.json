@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "testenginterview": {
+      "commandName": "Project",
+      "commandLineArgs": "testfile.txt"
+    }
+  }
+}
